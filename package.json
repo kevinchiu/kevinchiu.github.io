@@ -1,11 +1,20 @@
 {
-  "name": "node-example",
-  "version": "0.0.1",
-  "dependencies": {
-    "express": "3.1.x"
+  "name": "blowfish_template",
+  "version": "1.0.0",
+  "description": "Blowfish Template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo server --minify -D -E -F"
   },
-  "engines": {
-    "node": "0.10.x",
-    "npm": "1.2.x"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunocoracao/blowfish_template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunocoracao/blowfish_template/issues"
+  },
+  "homepage": "https://github.com/nunocoracao/blowfish_template#readme"
 }

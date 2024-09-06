@@ -1,0 +1,74 @@
+colorScheme = "slate"
+defaultAppearance = "light"
+autoSwitchAppearance = false
+enableSearch = true
+enableCodeCopy = true
+mainSections = [ "posts" ]
+smartTOCHideUnfocusedChildren = false
+highlightCurrentMenuArea = true
+disableTextInHeader = false
+
+[header]
+layout = "basic"
+
+[footer]
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = false
+showScrollToTop = true
+showMenu = false
+
+[homepage]
+layout = "profile"
+showRecent = false
+showRecentItems = 5
+showMoreLink = true
+showMoreLinkDest = "/posts"
+cardView = false
+cardViewScreenWidth = true
+layoutBackgroundBlur = false
+
+[article]
+showDate = true
+showDateUpdated = false
+showAuthor = false
+showHero = true
+heroStyle = "basic"
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = false
+showTableOfContents = false
+showTaxonomies = false
+showAuthorsBadges = true
+showWordCount = false
+showSummary = true
+sharingLinks = [ "linkedin", "twitter", "whatsapp", "reddit", "facebook", "email" ]
+showZenMode = false
+
+[list]
+showBreadcrumbs = false
+showSummary = true
+showTableOfContents = false
+showCards = false
+groupByYear = true
+cardView = false
+cardViewScreenWidth = false
+constrainItemsWidth = true
+
+[sitemap]
+excludedKinds = []
+
+[taxonomy]
+showTermCount = true
+
+[firebase]
+
+[fathomAnalytics]
+
+[verification]

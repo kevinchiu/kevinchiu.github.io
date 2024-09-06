@@ -1,0 +1,33 @@
+# [[main]]
+# name = "Blog"
+# pageRef = "posts"
+# weight = 10
+
+[[main]]
+identifier = "resume"
+name = "Resume"
+url = "/resume.pdf"
+weight = 40
+
+# [[main]]
+# identifier = "github"
+# pre = "github"
+# url = "https://github.com/kevinchiu"
+# weight = 50
+
+# [[main]]
+# identifier = "x-twitter"
+# pre = "x-twitter"
+# url = "https://x.com/kevingc"
+# weight = 60
+
+# [[main]]
+# pre = "instagram"
+# url = "https://www.instagram.com/kevingc"
+# identifier = "VHsAVdiwse"
+# weight = 9999
+
+# [[footer]]
+# name = "Tags"
+# pageRef = "tags"
+# weight = 10
