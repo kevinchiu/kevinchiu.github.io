@@ -6,7 +6,7 @@ enableCodeCopy = true
 mainSections = [ "posts" ]
 smartTOCHideUnfocusedChildren = false
 highlightCurrentMenuArea = true
-disableTextInHeader = false
+disableTextInHeader = true
 
 [header]
 layout = "basic"
