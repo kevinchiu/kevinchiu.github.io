@@ -11,8 +11,9 @@ rtl = false
 description = "Kevin Chiu"
 dateFormat = "2 January 2006"
 author = { name = "Kevin Chiu", image = "orange_logo.jpeg", headline = "Things are only impossible until they're not.", bio = "", links = [ 
-    { x-twitter = "https://twitter.com/kevingc" }, 
-    { instagram = "https://instagram.com/kevingc" }, 
-    { facebook = "https://fb.com/kevinchiu" }, 
-    { github = "https://github.com/kevinchiu" } 
+    { x-twitter = "https://www.x.com/kevingc" }, 
+    { linkedin = "https://www.linkedin.com/in/kevingchiu" }, 
+    { instagram = "https://www.instagram.com/kevingc" }, 
+    { facebook = "https://www.facebook.com/kevinchiu" }, 
+    { github = "https://www.github.com/kevinchiu" } 
     ] }

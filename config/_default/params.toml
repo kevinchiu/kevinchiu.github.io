@@ -1,7 +1,7 @@
 colorScheme = "slate"
 defaultAppearance = "light"
 autoSwitchAppearance = false
-enableSearch = true
+enableSearch = false
 enableCodeCopy = true
 mainSections = [ "posts" ]
 smartTOCHideUnfocusedChildren = false
@@ -31,7 +31,7 @@ layoutBackgroundBlur = false
 [article]
 showDate = true
 showDateUpdated = false
-showAuthor = false
+showAuthor = true
 showHero = true
 heroStyle = "basic"
 showBreadcrumbs = true
