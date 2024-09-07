@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipsum on Kevin Chiu</title>
-    <link>http://localhost:1313/tags/ipsum/</link>
+    <link>https://www.kevinchiu.org/tags/ipsum/</link>
     <description>Recent content in Ipsum on Kevin Chiu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Kevin Chiu</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kevinchiu.org/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/post-lite-one/</link>
+      <link>https://www.kevinchiu.org/posts/post-lite-one/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/post-lite-one/</guid>
+      <guid>https://www.kevinchiu.org/posts/post-lite-one/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
       
     </item>
     
     <item>
       <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/post-lite-three/</link>
+      <link>https://www.kevinchiu.org/posts/post-lite-three/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/post-lite-three/</guid>
+      <guid>https://www.kevinchiu.org/posts/post-lite-three/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
       
     </item>
     
     <item>
       <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/post-lite-two/</link>
+      <link>https://www.kevinchiu.org/posts/post-lite-two/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/post-lite-two/</guid>
+      <guid>https://www.kevinchiu.org/posts/post-lite-two/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
       
     </item>

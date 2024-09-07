@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kevin Chiu</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.kevinchiu.org/tags/</link>
     <description>Recent content in Tags on Kevin Chiu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Kevin Chiu</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kevinchiu.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ipsum</title>
-      <link>http://localhost:1313/tags/ipsum/</link>
+      <link>https://www.kevinchiu.org/tags/ipsum/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ipsum/</guid>
+      <guid>https://www.kevinchiu.org/tags/ipsum/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lorem</title>
-      <link>http://localhost:1313/tags/lorem/</link>
+      <link>https://www.kevinchiu.org/tags/lorem/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/lorem/</guid>
+      <guid>https://www.kevinchiu.org/tags/lorem/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>http://localhost:1313/tags/post/</link>
+      <link>https://www.kevinchiu.org/tags/post/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/post/</guid>
+      <guid>https://www.kevinchiu.org/tags/post/</guid>
       <description></description>
       
     </item>
