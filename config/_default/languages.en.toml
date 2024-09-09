@@ -9,11 +9,17 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 description = "Kevin Chiu"
-dateFormat = "2 January 2006"
-author = { name = "Kevin Chiu", image = "orange_logo.jpeg", headline = "Things are only impossible until they're not.", bio = "", links = [ 
-    { x-twitter = "https://www.x.com/kevingc" }, 
-    { linkedin = "https://www.linkedin.com/in/kevingchiu" }, 
-    { instagram = "https://www.instagram.com/kevingc" }, 
-    { facebook = "https://www.facebook.com/kevinchiu" }, 
-    { github = "https://www.github.com/kevinchiu" } 
-    ] }
+dateFormat = "January 2, 2006"
+
+[params.author]
+name = "Kevin Chiu"
+image = "orange_logo.jpeg"
+headline = "Things are only impossible until they're not."
+bio = "Exploring the interface of the relative and the absolute."
+links = [
+  { linkedin = "https://www.linkedin.com/in/kevingchiu" },
+  { x-twitter = "https://www.x.com/kevingc" },
+  { instagram = "https://www.instagram.com/kevingc" },
+  { facebook = "https://www.facebook.com/kevinchiu" },
+  { github = "https://www.github.com/kevinchiu" }
+]

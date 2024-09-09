@@ -1,6 +1,6 @@
 colorScheme = "slate"
 defaultAppearance = "light"
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = true
 mainSections = [ "posts" ]
@@ -14,13 +14,13 @@ layout = "basic"
 [footer]
 showCopyright = true
 showThemeAttribution = false
-showAppearanceSwitcher = false
+showAppearanceSwitcher = true
 showScrollToTop = true
 showMenu = false
 
 [homepage]
 layout = "profile"
-showRecent = false
+showRecent = true
 showRecentItems = 5
 showMoreLink = true
 showMoreLinkDest = "/posts"
@@ -55,11 +55,11 @@ showZenMode = false
 showBreadcrumbs = false
 showSummary = true
 showTableOfContents = false
-showCards = false
 groupByYear = true
+constrainItemsWidth = true
+showCards = false
 cardView = false
 cardViewScreenWidth = false
-constrainItemsWidth = true
 
 [sitemap]
 excludedKinds = []
