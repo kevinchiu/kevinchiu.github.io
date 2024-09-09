@@ -5,10 +5,6 @@
 {{ $recentArticles = .Site.Params.homepage.showRecentItems }}
 {{ end }}
 
-{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-{{ if $pages }}
-
-
 {{ if and .Site.Params.homepage.cardView (not .Site.Params.homepage.cardViewScreenWidth) | default false }}
   {{ partial "recent-articles/cardview.html" . }}
 {{ else if and .Site.Params.homepage.cardView .Site.Params.homepage.cardViewScreenWidth | default false }}
@@ -29,6 +25,5 @@
     </button>
   </a>
 </div>
-{{ end }}
 {{ end }}
 {{ end }}
