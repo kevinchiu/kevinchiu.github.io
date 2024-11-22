@@ -13,7 +13,7 @@ dateFormat = "January 2, 2006"
 
 [params.author]
 name = "Kevin Chiu"
-image = "blue_logo.png"
+image = "blue_logo.jpeg"
 headline = "Things are only impossible until they're not."
 bio = "Exploring the interface of the relative and the absolute."
 links = [
