@@ -3,7 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = true
-mainSections = [ "posts" ]
+mainSections = ["posts"]
 smartTOCHideUnfocusedChildren = false
 highlightCurrentMenuArea = true
 disableTextInHeader = true
@@ -19,7 +19,7 @@ showScrollToTop = true
 showMenu = false
 
 [homepage]
-layout = "profile"
+layout = "page"
 showRecent = false
 showRecentItems = 5
 showMoreLink = true
@@ -48,7 +48,14 @@ showTaxonomies = false
 showAuthorsBadges = true
 showWordCount = false
 showSummary = true
-sharingLinks = [ "linkedin", "twitter", "whatsapp", "reddit", "facebook", "email" ]
+sharingLinks = [
+    "linkedin",
+    "twitter",
+    "whatsapp",
+    "reddit",
+    "facebook",
+    "email",
+]
 showZenMode = false
 
 [list]
