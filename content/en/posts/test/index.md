@@ -4,7 +4,7 @@ summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in ele
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
-#showSummary: true
+showSummary: true
 date: 2024-09-07
 draft: true
 ---
