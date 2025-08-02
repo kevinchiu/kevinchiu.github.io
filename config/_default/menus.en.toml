@@ -3,11 +3,11 @@ name = "Home"
 url = "/"
 weight = 10
 
-[[main]]
-identifier = "resume"
-name = "Resume"
-url = "/resume.pdf"
-weight = 40
+# [[main]]
+# identifier = "resume"
+# name = "Resume"
+# url = "/resume.pdf"
+# weight = 40
 
 # [[main]]
 # identifier = "github"
