@@ -1,0 +1,11 @@
+/* Add space above the article list on the homepage profile layout */
+section.space-y-10 {
+    margin-top: 3rem; /* Adds 3rem (48px) of space above article list */
+}
+
+/* Optional: Adjust spacing for mobile devices */
+@media (max-width: 768px) {
+    section.space-y-10 {
+        margin-top: 2rem; /* Less space on mobile (32px) */
+    }
+}

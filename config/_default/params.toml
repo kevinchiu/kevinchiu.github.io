@@ -1,9 +1,9 @@
 colorScheme = "slate"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-enableSearch = false
+enableSearch = true
 enableCodeCopy = true
-mainSections = [ "posts" ]
+mainSections = ["posts"]
 smartTOCHideUnfocusedChildren = false
 highlightCurrentMenuArea = true
 disableTextInHeader = true
@@ -20,12 +20,12 @@ showMenu = false
 
 [homepage]
 layout = "profile"
-showRecent = false
+showRecent = true
 showRecentItems = 5
 showMoreLink = true
 showMoreLinkDest = "/posts"
 cardView = false
-cardViewScreenWidth = true
+cardViewScreenWidth = false
 layoutBackgroundBlur = false
 
 [article]
@@ -48,7 +48,14 @@ showTaxonomies = false
 showAuthorsBadges = true
 showWordCount = false
 showSummary = true
-sharingLinks = [ "linkedin", "twitter", "whatsapp", "reddit", "facebook", "email" ]
+sharingLinks = [
+    "linkedin",
+    "twitter",
+    "whatsapp",
+    "reddit",
+    "facebook",
+    "email",
+]
 showZenMode = false
 
 [list]

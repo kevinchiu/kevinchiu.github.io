@@ -7,7 +7,7 @@ baseURL = "https://www.kevinchiu.org/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 20
+pagination.pagerSize = 20
 summaryLength = 30
 
 buildDrafts = false
@@ -18,15 +18,15 @@ enableEmoji = true
 googleAnalytics = "G-J656FRY7HE"
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
-  series = "series"
+tag = "tags"
+category = "categories"
+author = "authors"
+series = "series"
 
 [sitemap]
-  changefreq = 'daily'
-  filename = 'sitemap.xml'
-  priority = 0.5
+changefreq = 'daily'
+filename = 'sitemap.xml'
+priority = 0.5
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
