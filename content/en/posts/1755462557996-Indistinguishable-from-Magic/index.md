@@ -4,7 +4,7 @@ date: 2025-08-17
 draft: false
 description: "Trying to understand LLM's"
 tags: ["learning", "AI", "LLM"]
-summary: "Large Language Models are baffling. They've become the artificial intelligence foretold by science fiction, yet no satisfying explanation exists for how they work. It's as if we threw data into a pressure cooker and intelligent life emerged."
+summary: "Large Language Models are magic. It's as if we threw data into a pressure cooker and intelligent life emerged."
 showSummary: true
 ---
 # Indistinguishable from Magic
