@@ -6,8 +6,11 @@ description: "Trying to understand LLM's"
 tags: ["learning", "AI", "LLM"]
 summary: "Large Language Models are magic. It's as if we threw data into a pressure cooker and intelligent life emerged."
 showSummary: true
+showHero: false
 ---
 # Indistinguishable from Magic
+
+{{< figure src="featured.jpg" alt="Ex Machina - showing off the AI brain" >}}
 
 > "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
 
