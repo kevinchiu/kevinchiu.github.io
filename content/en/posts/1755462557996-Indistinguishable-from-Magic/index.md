@@ -12,7 +12,8 @@ showHero: false
 
 {{< figure src="featured.jpg" alt="Ex Machina - showing off the AI brain" >}}
 
-> "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
+> "Any sufficiently advanced technology is indistinguishable from magic."
+> - Arthur C. Clarke
 
 Large Language Models are magic. They've become the artificial intelligence foretold by science fiction, yet no satisfying explanation exists for how they work. It's as if we threw data into a pressure cooker and intelligent life emerged.
 
@@ -28,4 +29,4 @@ Released quietly in late 2022, it exploded into public consciousness. Suddenly, 
 
 We're living a timeline sci-fi movies warned us about. The 2014 film ["Ex Machina"](https://en.wikipedia.org/wiki/Ex_Machina_(film)) depicted a near future where an AI is created by distilling online data into artificial brains installed in humanoid robots in an attempt to pass a physical Turing Test. With humanoid robots and GenAI startups springing up everywhere, fiction has become reality with startling speed. The film also presciently highlighted something we're grappling with now: the critical importance of understanding how AIs actually work, and the implications for AI safety. (Spoiler: It's important.)
 
-In my next post I'll highlight an oddity I observed while exploring LLMs and how that led me to start pulling on the thread of how LLM's work.
+In my next post I'll highlight an anomaly I observed while poking around LLMs and how that led me to start pulling on the thread of how LLMs work.
