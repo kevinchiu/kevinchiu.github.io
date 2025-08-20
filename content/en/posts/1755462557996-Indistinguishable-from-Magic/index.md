@@ -4,7 +4,7 @@ date: 2025-08-17
 draft: false
 description: "Trying to understand LLM's"
 tags: ["learning", "AI", "LLM"]
-summary: "Large Language Models are magic. It's as if we threw data into a pressure cooker and intelligent life emerged."
+summary: "Large Language Models are magic. It's as if we threw text into a pressure cooker and intelligent life emerged."
 showSummary: true
 showHero: false
 ---
@@ -15,7 +15,7 @@ showHero: false
 > "Any sufficiently advanced technology is indistinguishable from magic."
 > - Arthur C. Clarke
 
-Large Language Models are magic. They've become the artificial intelligence foretold by science fiction, yet no satisfying explanation exists for how they work. It's as if we threw data into a pressure cooker and intelligent life emerged.
+Large Language Models are magic. They've become the artificial intelligence foretold by science fiction, yet no satisfying explanation exists for how they work. It's as if we threw text into a pressure cooker and intelligent life emerged.
 
 As a kid, I was nerd-sniped by magic tricks. I spent countless hours figuring out how they worked. That natural curiosity followed me throughout life. Computers, the Internet—these seemed magical at first, but they were well-documented and could be understood with enough effort. LLMs, however, remain stubbornly mysterious despite rapid advancements that suggest someone, somewhere, knows how they work -- how lossy compression and decompression of data seems to have created intelligence.
 
