@@ -10,7 +10,8 @@ showHero: false
 ---
 # Indistinguishable from Magic
 
-{{< figure src="featured.jpg" alt="Ex Machina - showing off the AI brain" >}}
+{{< figure src="featured.jpg" alt="In Ex Machina, an AI distilled from search engine data is embodied in a humanoid form." >}}
+*<small><p style="text-align:center;">In "Ex Machina," an AI distilled from search engine data is embodied in a humanoid form.</p></small>*
 
 > "Any sufficiently advanced technology is indistinguishable from magic."
 > - Arthur C. Clarke
