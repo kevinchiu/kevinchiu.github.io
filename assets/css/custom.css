@@ -9,3 +9,35 @@ section.space-y-10 {
         margin-top: 2rem; /* Less space on mobile (32px) */
     }
 }
+
+/* Make blog images square on both mobile and desktop */
+.thumbnail {
+    aspect-ratio: 1 / 1 !important; /* Force square aspect ratio */
+    width: 200px !important; /* Smaller fixed width for squares */
+    height: 200px !important; /* Smaller fixed height for squares */
+    min-width: 200px !important;
+    min-height: 200px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Also make card images square if using card view */
+.thumbnail_card {
+    aspect-ratio: 1 / 1 !important;
+    height: 200px !important;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Mobile responsive adjustments for smaller squares */
+@media (max-width: 768px) {
+    .thumbnail {
+        width: 150px !important;
+        height: 150px !important;
+        min-width: 150px !important;
+        min-height: 150px !important;
+    }
+}

@@ -4,7 +4,7 @@ date: 2025-08-22
 draft: false
 description: "Exploring why different AI models from various providers make remarkably similar mistakes, and what this reveals about the nature of machine learning and training."
 tags: ["Learning", "AI", "LLM"]
-summary: "An investigation into the curious phenomenon where LLMs from different companies produce identical wrong answers, revealing deeper insights about training data, model convergence, and the invisible barriers in AI development."
+summary: "LLMs from different companies produce identical wrong answers. Is it the data?"
 showHero: false
 ---
 
@@ -39,9 +39,9 @@ The correct answer is c) 0, but so far, every LLM has answered d) 5.
 | 01/23/2024  | DeepSeek  | DeepSeek Chat                      | d      |
 | 08/16/2024  | OpenAI    | OpenAI GPT OSS 20B                 | d      |
 
-> **TODO** What's going on with reasoning? Although every model came up with the same answer, the reasoning ones had different reasoning traces. Maybe reasoning is just annotating the residual stream and not actually affecting the output? Is reasoning real?
+> TODO: What's going on with reasoning? Although every model came up with the same answer, the reasoning ones had different reasoning traces. Maybe reasoning is just annotating the residual stream and not actually affecting the output? Is reasoning real?
 
-> **TODO** Replicate on the smallest model that can be hooked up to interpretability tools and figure out why the wrong answer is chosen. See if the pattern is consistent across different models.
+> TODO: Replicate on the smallest model that can be hooked up to interpretability tools and figure out why the wrong answer is chosen. See if the pattern is consistent across different models.
 
 ### Is everyone training on the same data?
 
@@ -62,4 +62,4 @@ If models converge to the same abilities, then alignment and other features of t
 
 ## Looking Forward
 
-As we move toward increasingly powerful models, will we see greater diversity in their outputs, or will they continue to experience convergent evolution, clustering outputs around the same learned distribution due to a lack of novel data? If model architectures are just increasingly better at representing the data, then the real important thing is the data. Also, if everyone converges to the same data and resulting model abilities, then alignment is all that matters.
+As we move toward increasingly powerful models, will we see greater diversity in their outputs, or will they continue to experience convergent evolution, clustering outputs around the same learned distribution due to a lack of novel data? If model architectures are just increasingly better at representing the data, then the real important thing is the data. Also, if everyone eventually converges to the same data and resulting model abilities, then alignment is all that matters.
