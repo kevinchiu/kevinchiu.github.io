@@ -58,8 +58,6 @@ There really doesn't seem to be that much good text data out there. So, as we tr
 
 > Note: I suppose if some labs strike exclusive data deals, such as [Reddit's deals with Google and OpenAI](https://securityonline.info/reddit-cashes-in-on-ai-google-and-openai-pay-130m-for-user-data/), that could also be a differentiator.
 
-If models converge to the same abilities, then alignment and other features of the model, such as efficiency and interpretability, will become increasingly important. Also, data deals will become more important as useful and freely available data becomes more scarce.
-
 ## Looking Forward
 
 As we move toward increasingly powerful models, will we see greater diversity in their outputs, or will they continue to experience convergent evolution, clustering outputs around the same learned distribution due to a lack of novel data? If model architectures are just increasingly better at representing the data, then the real important thing is the data. Also, if everyone eventually converges to the same data and resulting model abilities, then alignment is all that matters.
