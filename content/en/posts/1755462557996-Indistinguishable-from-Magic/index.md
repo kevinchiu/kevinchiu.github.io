@@ -8,7 +8,6 @@ summary: "Large Language Models are magic. It's as if we threw text into a press
 showSummary: true
 showHero: false
 ---
-# Indistinguishable from Magic
 
 {{< figure src="featured.jpg" alt="In Ex Machina, an AI distilled from search engine data is embodied in a humanoid form." >}}
 *<small><p style="text-align:center;">In "Ex Machina," an AI distilled from search engine data is embodied in a humanoid form.</p></small>*

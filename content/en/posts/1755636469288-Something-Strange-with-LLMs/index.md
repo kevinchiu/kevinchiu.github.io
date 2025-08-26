@@ -7,7 +7,6 @@ tags: ["Learning", "AI", "LLM"]
 summary: "An investigation into the curious phenomenon where LLMs from different companies produce identical wrong answers, revealing deeper insights about training data, model convergence, and the invisible barriers in AI development."
 showHero: false
 ---
-# Something Strange with LLMs
 
 {{< figure src="featured.png" alt="An LLM thinks 2+2=5" >}}
 *<small><p style="text-align:center;">Sometimes LLMs don't have the right answer. Why?</p></small>*
