@@ -12,7 +12,7 @@ I noticed something strange with LLMs. Multiple models from different providers 
 
 Here's a table of the models and their answers. I'm keeping the question secret for now so I can use it to test future models, but here's a placeholder:
 
-> This is a question about the number of intersecting points between seven parallel lines on an x-y plane. Assume each line is placed such that it intersects the x-axis one unit away from the nearest line. If the lines are rotated 180 degrees, how many intersection points will there be between the lines?
+> This is a question about the number of intersecting points between seven parallel lines on a 2-dimensional x-y plane. Assume each line is placed such that it intersects the x-axis one unit away from the nearest line. If the lines are rotated 180 degrees, how many intersection points will there be between the lines?
 
 > a) 7
 > b) 3
