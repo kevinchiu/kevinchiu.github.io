@@ -41,3 +41,31 @@ section.space-y-10 {
         min-height: 150px !important;
     }
 }
+
+/* Make articles use full width when thumbnails are hidden */
+.article {
+    width: 100% !important;
+    max-width: none !important;
+}
+
+/* Remove the prose max-width constraint to use full width */
+.article .max-w-prose {
+    max-width: none !important;
+}
+
+/* Make the main content area narrower */
+body {
+    max-width: 56rem !important; /* Equivalent to max-w-4xl (896px) instead of max-w-7xl */
+}
+
+/* Make featured images in blog posts narrower */
+.prose figure {
+    max-width: 75% !important; /* Make images 75% of container width */
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.prose figure img {
+    width: 100% !important;
+    height: auto !important;
+}
