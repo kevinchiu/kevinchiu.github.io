@@ -13,9 +13,9 @@ dateFormat = "January 2, 2006"
 
 [params.author]
 name = "Kevin Chiu"
-image = "orange_logo.jpeg"
-headline = "Just following my curiosity."
-bio = "Just following my curiosity."
+image = "face_logo.png"
+headline = "Things are only impossible until they're not."
+bio = "Things are only impossible until they're not."
 links = [
     { linkedin = "https://www.linkedin.com/in/kevingchiu" },
     { x-twitter = "https://www.x.com/kevingc" },
