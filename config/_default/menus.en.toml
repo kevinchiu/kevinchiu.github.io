@@ -4,6 +4,13 @@ url = "/"
 weight = 10
 
 [[main]]
+
+identifier = "blog"
+name = "Blog"
+url = "/posts"
+weight = 40
+
+[[main]]
 identifier = "resume"
 name = "Resume"
 url = "/resume.pdf"
