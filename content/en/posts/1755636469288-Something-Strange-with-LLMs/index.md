@@ -40,17 +40,13 @@ The correct answer is c) 0, but so far, every LLM has answered d) 5.
 | 01/23/2024  | DeepSeek  | DeepSeek Chat                      | d      |
 | 08/16/2024  | OpenAI    | OpenAI GPT OSS 20B                 | d      |
 
-### Things to look into
+> TODO: What's going on with reasoning? Although every model came up with the same answer, the reasoning ones had different reasoning traces. Maybe reasoning is just annotating the residual stream and not actually affecting the output? Is reasoning real?
 
-While the models provided different step-by-step reasoning, they all arrived at the same wrong conclusion. This raises a critical question in AI development: Is the 'reasoning' we see simply a post-hoc justification for an answer the model has already decided on, rather than a true causal path to the solution?
-
-The next step is to put these models 'under the microscope.' By using interpretability tools on a small model that still makes this error, we could potentially trace the specific neural pathways that lead to the wrong answer and see if a common, flawed 'circuit' exists across different architectures.
+> TODO: Replicate on the smallest model that can be hooked up to interpretability tools and figure out why the wrong answer is chosen. See if the pattern is consistent across different models.
 
 ### Is everyone training on the same data?
 
 The most basic explanation for this phenomenon is that these models were trained on similar datasets. As I recall from distributed systems class in undergrad, Google's crawl data was only around 8 terabytes uncompressed. I would guess that the web has grown significantly since then. [Common Crawl](https://commoncrawl.org/) has a text portion of about 8 terabytes compressed. Running the text index through Claude to estimate its size gives me about 20TB uncompressed, surprisingly small compared to what I thought it would be. Maybe there's about 10x more useful text data out there... and even then it would easily fit on a single machine. It's reasonable to think that everyone could be training on the same data since it's not that hard to gather most of it.
-
-This issue highlights the concept of **data contamination**, where the incorrect answer might be present in the training data, sourced from a popular but flawed webpage, forum, or online textbook that was scraped into the dataset. It also points to **architectural similarities**; since many models use similar transformer-based architectures, they may be predisposed to similar algorithmic biases and failure modes.
 
 The common training data for most LLMs likely consists of:
 
