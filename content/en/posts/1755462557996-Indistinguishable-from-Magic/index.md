@@ -7,6 +7,7 @@ tags: ["learning", "AI", "LLM"]
 summary: "Large Language Models are magic. It's as if we threw text into a pressure cooker and intelligent life emerged."
 showSummary: true
 showHero: false
+hideFeatureImage: true
 ---
 
 {{< figure src="featured.jpg" alt="In Ex Machina, an AI distilled from search engine data is embodied in a humanoid form." >}}
@@ -19,7 +20,7 @@ Large Language Models are magic. They've become the artificial intelligence fore
 
 As a kid, I was nerd-sniped by magic tricks. I spent countless hours figuring out how they worked. That natural curiosity followed me throughout life. Computers, the Internet—these seemed magical at first, but they were well-documented and could be understood with enough effort. LLMs, however, remain stubbornly mysterious despite rapid advancements that suggest someone, somewhere, knows how they work -- how lossy compression and decompression of data seems to have created intelligence.
 
-Yet hunting around reveals even the insiders at frontier labs are [still working](https://www.anthropic.com/research) to understand the inner workings of LLMs. Models continue to march ahead in capabilities, but the underlying mechanisms remain elusive. After speaking with people who work directly on LLMs and also doing a bit of background reading, I've come to realize something that insiders already know: we possess, at best, piecewise knowledge that lifts the edge of veil just a little bit at a time.
+Yet hunting around reveals even the insiders at frontier labs are [still working](https://www.anthropic.com/research#interpretability) to understand the inner workings of LLMs. Models continue to march ahead in capabilities, but the underlying mechanisms remain elusive. After speaking with people who work directly on LLMs and also doing a bit of background reading, I've come to realize something that insiders already know: we possess, at best, piecewise knowledge that lifts the edge of veil just a little bit at a time.
 
 In 2019, OpenAI's GPT-2 made waves by generating text that could masquerade as human-written. People worried it would flood the internet with AI-generated articles designed to capture attention and ad dollars. I initially dismissed it as merely a mega-sized hidden Markov model—a "[stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)" repeating patterns without understanding.
 

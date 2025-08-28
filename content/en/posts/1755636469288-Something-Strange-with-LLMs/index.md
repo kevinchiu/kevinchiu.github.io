@@ -6,6 +6,7 @@ description: "Exploring why different AI models from various providers make rema
 tags: ["Learning", "AI", "LLM"]
 summary: "LLMs from different companies produce identical wrong answers. Is it the data?"
 showHero: false
+hideFeatureImage: true
 ---
 
 {{< figure src="featured.png" alt="An LLM thinks 2+2=5" >}}
