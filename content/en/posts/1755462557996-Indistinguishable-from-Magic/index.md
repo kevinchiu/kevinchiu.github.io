@@ -7,7 +7,7 @@ tags: ["learning", "AI", "LLM"]
 summary: "Large Language Models are magic. It's as if we threw text into a pressure cooker and intelligent life emerged."
 showSummary: true
 showHero: false
-hideFeatureImage: false
+hideFeatureImage: true
 ---
 
 {{< figure src="featured.jpg" alt="In Ex Machina, an AI distilled from search engine data is embodied in a humanoid form." >}}
