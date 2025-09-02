@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Kevin Chiu</title>
+    <link>https://www.kevinchiu.org/tags/learning/</link>
+    <description>Recent content in Learning on Kevin Chiu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Kevin Chiu</copyright>
+    <lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kevinchiu.org/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Something Strange with LLMs</title>
+      <link>https://www.kevinchiu.org/posts/1755636469288-something-strange-with-llms/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kevinchiu.org/posts/1755636469288-something-strange-with-llms/</guid>
+      <description>LLMs from different companies produce identical wrong answers. Is it the data?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.kevinchiu.org/posts/1755636469288-something-strange-with-llms/featured.png" />
+    </item>
+    
+    <item>
+      <title>Indistinguishable from Magic</title>
+      <link>https://www.kevinchiu.org/posts/1755462557996-indistinguishable-from-magic/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kevinchiu.org/posts/1755462557996-indistinguishable-from-magic/</guid>
+      <description>Large Language Models are magic. It&amp;rsquo;s as if we threw text into a pressure cooker and intelligent life emerged.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.kevinchiu.org/posts/1755462557996-indistinguishable-from-magic/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
